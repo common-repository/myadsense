@@ -1,0 +1,708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyAdsense\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-04-07 13:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ad.php:195
+#: MyAdsense.php:61
+#: ad.php:199
+#: ad.php:188
+#: MyAdsense.php:51
+#: ad.php:214
+#: ad.php:228
+msgid "Create New Ad"
+msgstr "Créer une nouvelle annonce"
+
+#: ad.php:198
+#: ad.php:202
+#: ad.php:191
+#: ad.php:217
+#: ad.php:231
+msgid "Create Ad"
+msgstr "Créer une annonce"
+
+#: ad.php:220
+#: ad.php:224
+#: ad.php:215
+#: ad.php:247
+#: ad.php:262
+#, php-format
+msgid "Editing Ad # %s"
+msgstr "Modifier l&#39;annonce # %s"
+
+#: ad.php:221
+#: ad.php:225
+#: ad.php:216
+#: ad.php:251
+#: ad.php:266
+msgid "Default Ad"
+msgstr "Annonce &#39;Défaut&#39;"
+
+#: ad.php:224
+#: ad.php:228
+#: ad.php:219
+msgid "Save Ad"
+msgstr "Sauver l&#39;annonce"
+
+#: ads.php:62
+#: ads.php:64
+msgid "Sorry ! Ad could not be set as default"
+msgstr "Désolé ! cette annonce ne peut être l&#39;annonce &#39;Défaut&#39;"
+
+#: ads.php:66
+#: ads.php:68
+#, php-format
+msgid "%s Ad deleted"
+msgstr "%s annonce supprimée"
+
+#: ads.php:66
+#: ads.php:68
+#, php-format
+msgid "%s Ads deleted"
+msgstr "%s annonces supprimées"
+
+#: ads.php:67
+#: ads.php:69
+msgid "Ad saved"
+msgstr "Annonce sauvegardée"
+
+#: ads.php:68
+#: ads.php:70
+msgid "Ad inserted"
+msgstr "Annonce insérée"
+
+#: ads.php:69
+#: ads.php:71
+msgid "Ad set as default"
+msgstr "Annonce mise à &#39;Défaut&#39;"
+
+#: ads.php:132
+#: ads.php:153
+#, php-format
+msgid "Manage Ads (<a href=\"%s\">add new</a>)"
+msgstr "Gérer les annonces (<a href=\"%s\">en ajouter une</a>)"
+
+#: ads.php:138
+#: ads.php:163
+msgid "Search ads"
+msgstr "Chercher dans les annonces"
+
+#: ads.php:143
+#: ads.php:169
+msgid "Detail View"
+msgstr "Vue détaillée"
+
+#: ads.php:144
+#: ads.php:170
+msgid "List View"
+msgstr "Vue liste"
+
+#: ads.php:150
+#: MyAdsense.php:412
+#: MyAdsense.php:413
+#: ads.php:177
+#: MyAdsense.php:424
+#: MyAdsense.php:431
+#: MyAdsense.php:477
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ads.php:162
+#: ads.php:186
+#: edit-ad-form.php:154
+#: edit-ad-form.php:141
+msgid "Ad"
+msgstr "Annonce"
+
+#: ads.php:163
+#: edit-add-form.php:30
+#: ads.php:187
+#: edit-add-form.php:59
+#: edit-ad-form.php:133
+#: edit-ad-form.php:120
+msgid "Channel"
+msgstr "Canal"
+
+#: ads.php:164
+#: edit-add-form.php:40
+#: ads.php:188
+#: edit-add-form.php:69
+#: edit-ad-form.php:141
+#: edit-ad-form.php:128
+msgid "Product"
+msgstr "Produit"
+
+#: ads.php:165
+#: ads.php:189
+msgid "Colors"
+msgstr "Couleurs"
+
+#: ads.php:166
+#: ads.php:190
+#: edit-ad-form.php:163
+#: edit-ad-form.php:150
+msgid "Format"
+msgstr "Format"
+
+#: ads.php:167
+#: ads.php:191
+msgid "Actions"
+msgstr "Actions"
+
+#: ads.php:199
+#: ads.php:229
+msgid "No results found."
+msgstr "Aucun résultat"
+
+#: edit-add-form.php:13
+#: edit-add-form.php:42
+msgid "Basic"
+msgstr "Basic"
+
+#: edit-add-form.php:20
+#: edit-add-form.php:49
+#: edit-ad-form.php:125
+#: edit-ad-form.php:112
+msgid "Name"
+msgstr "Nom"
+
+#: edit-add-form.php:34
+#: edit-add-form.php:63
+#: edit-ad-form.php:136
+#: edit-ad-form.php:123
+msgid "Enter multiple Channels seperated by + signs"
+msgstr "Entrer plusieurs canaux séparés par un signe +"
+
+#: edit-add-form.php:45
+#: edit-add-form.php:27
+#: adsense.php:18
+msgid "Ad Unit"
+msgstr "Ensemble d&#39;annonces"
+
+#: edit-add-form.php:46
+#: edit-add-form.php:27
+#: adsense.php:18
+msgid "Link Unit"
+msgstr "Ensemble de liens"
+
+#: edit-add-form.php:53
+#: edit-add-form.php:81
+#: edit-ad-form.php:151
+#: edit-ad-form.php:138
+msgid "Layout"
+msgstr "Layout"
+
+#: edit-add-form.php:61
+#: edit-add-form.php:89
+msgid "Ad Format"
+msgstr "Format d&#39;annonce"
+
+#: edit-add-form.php:68
+#: edit-add-form.php:123
+#: edit-add-form.php:97
+#: edit-add-form.php:146
+#: edit-ad-form.php:169
+#: edit-ad-form.php:189
+#: edit-ad-form.php:156
+#: edit-ad-form.php:176
+msgid "Default"
+msgstr "Défaut"
+
+#: edit-add-form.php:69
+#: edit-add-form.php:101
+#: edit-add-form.php:124
+#: edit-add-form.php:148
+#: edit-add-form.php:267
+#: edit-add-form.php:281
+#: edit-add-form.php:296
+#: edit-add-form.php:311
+#: edit-add-form.php:12
+#: edit-add-form.php:26
+#: adsense.php:3
+#: adsense.php:17
+msgid "Use Default"
+msgstr "Défaut"
+
+#: edit-add-form.php:71
+#: edit-add-form.php:126
+#: edit-add-form.php:101
+#: edit-add-form.php:150
+#: edit-ad-form.php:173
+#: edit-ad-form.php:193
+#: edit-ad-form.php:160
+#: edit-ad-form.php:180
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: edit-add-form.php:72
+#: edit-add-form.php:14
+#: adsense.php:5
+msgid "Leaderboard"
+msgstr "Leaderboard"
+
+#: edit-add-form.php:73
+#: edit-add-form.php:14
+#: adsense.php:5
+msgid "Banner"
+msgstr "Bannière"
+
+#: edit-add-form.php:74
+#: edit-add-form.php:14
+#: adsense.php:5
+msgid "Half Banner"
+msgstr "Demi bannière"
+
+#: edit-add-form.php:76
+#: edit-add-form.php:104
+#: edit-ad-form.php:176
+#: edit-ad-form.php:163
+msgid "Vertical"
+msgstr "Vertical"
+
+#: edit-add-form.php:77
+#: edit-add-form.php:15
+#: adsense.php:6
+msgid "Skyscraper"
+msgstr "Gratte-ciel"
+
+#: edit-add-form.php:78
+#: edit-add-form.php:15
+#: adsense.php:6
+msgid "Wide Skyscraper"
+msgstr "Gratte-ciel large"
+
+#: edit-add-form.php:79
+#: edit-add-form.php:15
+#: adsense.php:6
+msgid "Vertical Banner"
+msgstr "Bannière verticale"
+
+#: edit-add-form.php:81
+#: edit-add-form.php:84
+#: edit-add-form.php:130
+#: edit-add-form.php:16
+#: edit-add-form.php:107
+#: edit-add-form.php:153
+#: adsense.php:7
+#: edit-ad-form.php:179
+#: edit-ad-form.php:196
+#: edit-ad-form.php:166
+#: edit-ad-form.php:183
+msgid "Square"
+msgstr "Carré"
+
+#: edit-add-form.php:82
+#: edit-add-form.php:16
+#: adsense.php:7
+msgid "Large Rectangle"
+msgstr "Rectangle large"
+
+#: edit-add-form.php:83
+#: edit-add-form.php:16
+#: adsense.php:7
+msgid "Medium Rectangle"
+msgstr "Rectangle moyen"
+
+#: edit-add-form.php:85
+#: edit-add-form.php:16
+#: adsense.php:7
+msgid "Small Square"
+msgstr "Carré petit"
+
+#: edit-add-form.php:86
+#: edit-add-form.php:16
+#: adsense.php:7
+msgid "Small Rectangle"
+msgstr "Rectangle petit"
+
+#: edit-add-form.php:87
+#: edit-add-form.php:16
+#: adsense.php:7
+msgid "Button"
+msgstr "Bouton"
+
+#: edit-add-form.php:95
+#: edit-add-form.php:116
+msgid "Ad Type"
+msgstr "Type d&#39;annonce"
+
+#: edit-add-form.php:102
+#: edit-add-form.php:21
+#: adsense.php:12
+msgid "Text &amp; Image"
+msgstr "Texte &amp; Image"
+
+#: edit-add-form.php:103
+#: edit-add-form.php:21
+#: adsense.php:12
+msgid "Image Only"
+msgstr "Image seule"
+
+#: edit-add-form.php:104
+#: edit-add-form.php:21
+#: adsense.php:12
+msgid "Text Only"
+msgstr "Texte seul"
+
+#: edit-add-form.php:116
+#: edit-add-form.php:138
+msgid "Link Format"
+msgstr "Format lien"
+
+#: edit-add-form.php:142
+#: edit-add-form.php:162
+msgid "Link Type"
+msgstr "Type de lien"
+
+#: edit-add-form.php:149
+#: edit-add-form.php:23
+#: adsense.php:14
+msgid "4 Ads Per Unit"
+msgstr "4 annonces par ensemble"
+
+#: edit-add-form.php:150
+#: edit-add-form.php:23
+#: adsense.php:14
+msgid "5 Ads Per Unit"
+msgstr "5 annonces par ensemble"
+
+#: edit-add-form.php:162
+#: edit-add-form.php:183
+#: edit-ad-form.php:228
+#: edit-ad-form.php:215
+msgid "Ad Colours"
+msgstr "Couleurs annonce"
+
+#: edit-add-form.php:169
+#: edit-add-form.php:190
+#: edit-ad-form.php:234
+#: edit-ad-form.php:221
+msgid "Border"
+msgstr "Bordure"
+
+#: edit-add-form.php:180
+#: edit-add-form.php:201
+#: edit-ad-form.php:237
+#: edit-ad-form.php:224
+msgid "Title"
+msgstr "Titre"
+
+#: edit-add-form.php:191
+#: edit-add-form.php:212
+#: edit-ad-form.php:240
+#: edit-ad-form.php:227
+msgid "Background"
+msgstr "Arrière plan"
+
+#: edit-add-form.php:202
+#: edit-add-form.php:223
+#: edit-ad-form.php:243
+#: edit-ad-form.php:230
+msgid "Text"
+msgstr "Texte"
+
+#: edit-add-form.php:213
+#: edit-add-form.php:355
+#: edit-add-form.php:234
+#: edit-add-form.php:377
+#: edit-ad-form.php:246
+#: edit-ad-form.php:361
+#: edit-ad-form.php:233
+#: edit-ad-form.php:369
+msgid "URL"
+msgstr "URL"
+
+#: edit-add-form.php:228
+#: edit-add-form.php:249
+#: edit-ad-form.php:56
+#: googlead.php:5
+#: edit-ad-form.php:58
+msgid "Linked Title"
+msgstr "Titre lié"
+
+#: edit-add-form.php:234
+#: edit-add-form.php:255
+#: edit-ad-form.php:61
+#: edit-ad-form.php:87
+#: edit-ad-form.php:89
+#: edit-ad-form.php:91
+#: edit-ad-form.php:93
+#: googlead.php:10
+#: edit-ad-form.php:63
+#: fakelink.php:40
+#: fakelink.php:42
+#: fakelink.php:44
+#: fakelink.php:46
+msgid "Advertiser's ad text here"
+msgstr "Texte de l&#39;annonceur ici"
+
+#: edit-add-form.php:238
+#: edit-add-form.php:259
+#: edit-ad-form.php:65
+#: googlead.php:14
+#: edit-ad-form.php:67
+msgid "www.advertiser-url.com"
+msgstr "www.lien-annonceur.fr"
+
+#: edit-add-form.php:244
+#: edit-add-form.php:265
+#: edit-ad-form.php:71
+#: edit-ad-form.php:83
+#: googlead.php:20
+#: fakelink.php:36
+msgid "Ads by Google"
+msgstr "Annonces Google"
+
+#: edit-add-form.php:255
+#: edit-add-form.php:276
+#: edit-ad-form.php:276
+#: edit-ad-form.php:284
+msgid "Show Inline Ads"
+msgstr "Afficher annonces en ligne"
+
+#: edit-add-form.php:262
+#: edit-add-form.php:283
+#: edit-ad-form.php:282
+#: edit-ad-form.php:290
+msgid "On Homepage"
+msgstr "sur la Homepage"
+
+#: edit-add-form.php:268
+#: edit-add-form.php:282
+#: edit-add-form.php:297
+#: edit-add-form.php:312
+#: edit-add-form.php:25
+#: adsense.php:16
+msgid "Yes"
+msgstr "Oui"
+
+#: edit-add-form.php:269
+#: edit-add-form.php:283
+#: edit-add-form.php:298
+#: edit-add-form.php:313
+#: edit-add-form.php:25
+#: adsense.php:16
+msgid "No"
+msgstr "Non"
+
+#: edit-add-form.php:276
+#: edit-add-form.php:298
+#: edit-ad-form.php:288
+#: edit-ad-form.php:296
+msgid "On Posts/Pages"
+msgstr "Sur les Articles/Pages"
+
+#: edit-add-form.php:291
+#: edit-add-form.php:313
+#: edit-ad-form.php:285
+#: edit-ad-form.php:293
+msgid "On Archives"
+msgstr "Sur les Archives"
+
+#: edit-add-form.php:306
+#: edit-add-form.php:328
+#: edit-ad-form.php:291
+#: edit-ad-form.php:299
+msgid "On Search"
+msgstr "Sur la recherche"
+
+#: edit-add-form.php:321
+#: edit-add-form.php:343
+#: edit-ad-form.php:333
+#: edit-ad-form.php:341
+msgid "HTML Markup (Optional)"
+msgstr "HTML (Optionnel)"
+
+#: edit-add-form.php:328
+#: edit-add-form.php:350
+#: edit-ad-form.php:339
+#: edit-ad-form.php:347
+msgid "Before"
+msgstr "Avant"
+
+#: edit-add-form.php:332
+#: edit-add-form.php:354
+#: edit-ad-form.php:347
+#: edit-ad-form.php:355
+msgid "Enter HTML to be included before Ad unit"
+msgstr "Entrer le HTML à inclure avant l&#39;annonce"
+
+#: edit-add-form.php:338
+#: edit-add-form.php:360
+#: edit-ad-form.php:342
+#: edit-ad-form.php:350
+msgid "After"
+msgstr "Après"
+
+#: edit-add-form.php:342
+#: edit-add-form.php:364
+#: edit-ad-form.php:350
+#: edit-ad-form.php:358
+msgid "Enter HTML to be included after Ad unit"
+msgstr "Entrer le HTML à inclure après l&#39;annonce"
+
+#: edit-add-form.php:348
+#: edit-add-form.php:370
+#: edit-ad-form.php:358
+#: edit-ad-form.php:366
+msgid "Alternate Ads (Optional)"
+msgstr "Annonce alternative (Optionnel)"
+
+#: edit-add-form.php:359
+#: edit-add-form.php:381
+#: edit-ad-form.php:361
+#: edit-ad-form.php:369
+msgid "Enter URL to alternate Ad for display when Google Ad unavailable"
+msgstr "Entrer l&#39;URL de l&#39;annonce alternative pour affichage lorsque l&#39;annonce Google est indisponible"
+
+#: edit-add-form.php:365
+#: edit-add-form.php:387
+#: edit-ad-form.php:363
+#: edit-ad-form.php:371
+msgid "Color"
+msgstr "Couleur"
+
+#: edit-add-form.php:370
+#: edit-add-form.php:392
+#: edit-ad-form.php:363
+#: edit-ad-form.php:371
+msgid "Enter #COLOUR to display when Google Ad unavailable"
+msgstr "Entrer la #Couleur à afficher lorsque l&#39;annonce Google est indisponible"
+
+#: MyAdsense.php:56
+#: MyAdsense.php:46
+msgid "Edit ad"
+msgstr "Modifier l&#39;annonce"
+
+#: MyAdsense.php:105
+#: MyAdsense.php:106
+#: MyAdsense.php:96
+#: MyAdsense.php:94
+#: MyAdsense.php:95
+msgid "MyAdsense Settings"
+msgstr "Réglages MyAdsense"
+
+#: MyAdsense.php:106
+#: MyAdsense.php:107
+#: MyAdsense.php:97
+#: MyAdsense.php:95
+#: MyAdsense.php:96
+msgid "Ads"
+msgstr "Annonces"
+
+#: MyAdsense.php:411
+#: MyAdsense.php:412
+#: MyAdsense.php:423
+#: MyAdsense.php:430
+#: MyAdsense.php:476
+msgid "Set default"
+msgstr "Mettre par défaut"
+
+#: MyAdsense.php:420
+#: MyAdsense.php:421
+#: MyAdsense.php:432
+#: MyAdsense.php:440
+#: MyAdsense.php:486
+msgid "default ad"
+msgstr "Annonce &#39;Défaut&#39;"
+
+#: setform.php:8
+msgid "Google AdSense Account ID"
+msgstr "Google AdSense Account ID"
+
+#: setform.php:16
+msgid "Are we on a test site ?"
+msgstr "Sommes nous sur un site de test ?"
+
+#: setform.php:25
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: settings.php:18
+msgid "Settings updated successfully !"
+msgstr "Réglages mis à jour avec succès !"
+
+#: settings.php:21
+msgid "Settings NOT updated !!"
+msgstr "ATTENTION ! les réglages n&#39;ont pu être mis à jour !!!"
+
+#: settings.php:30
+msgid "MyAdsense settings"
+msgstr "Réglages MyAdsense"
+
+#: ads.php:80
+msgid "Product 'Link' only"
+msgstr "Produit &#39;Lien&#39; seulement"
+
+#: ads.php:80
+msgid "Product 'Ad' only"
+msgstr "Produit &#39;Annonce&#39; seulement"
+
+#: ads.php:82
+msgid "Show All Ads"
+msgstr "Afficher toutes les annonces"
+
+#: ad.php:218
+#: ad.php:251
+#: ad.php:232
+#: ad.php:266
+msgid "View this Ad"
+msgstr "Voir cette annonce"
+
+#: ad.php:250
+#: ad.php:265
+msgid "Save"
+msgstr "Enregistrer"
+
+#: edit-ad-form.php:104
+#: edit-ad-form.php:91
+msgid "You are about to delete this ad"
+msgstr "Vous allez supprimer cette annonce"
+
+#: edit-ad-form.php:105
+#: edit-ad-form.php:92
+msgid "Delete&nbsp;ad"
+msgstr "Supprimer&nbsp;cette&nbsp;annonce"
+
+#: edit-ad-form.php:111
+#: edit-ad-form.php:98
+msgid "Related"
+msgstr "Pages connexes"
+
+#: edit-ad-form.php:113
+#: edit-ad-form.php:100
+msgid "Manage All ads"
+msgstr "Gérer les annonces"
+
+#: edit-ad-form.php:159
+#: edit-ad-form.php:146
+msgid "Link"
+msgstr "Lien"
+
+#: edit-ad-form.php:203
+#: edit-ad-form.php:190
+msgid "Type"
+msgstr "Type"
+
+#: adsense.php:19
+msgid "Square corners"
+msgstr "Coins carrés"
+
+#: adsense.php:19
+msgid "Slightly rounded corners"
+msgstr "Coins légèrement arrondis"
+
+#: adsense.php:19
+msgid "Very rounded corners"
+msgstr "Coins très arrondis"
+
+#: edit-ad-form.php:271
+msgid "Corner Styles"
+msgstr "Coins arrondis"
+
